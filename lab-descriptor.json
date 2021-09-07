@@ -1,0 +1,88 @@
+{
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Waves and Vibration Transmission in Periodic Structures",
+  "deployLab": true,
+  "phase": 3,
+  "collegeName": "IITD",
+  "baseUrl": "wvtps-iitd.vlabs.ac.in",
+  "introduction": "Welcome to Waves and Vibration Transmission in Periodic Structures",
+  "experiments": [
+    {
+      "name": "Transverse Vibration Waves in 1D String",
+      "short-name": "waves-1d-string",
+      "repo": "https://github.com/virtual-labs/exp-waves-1d-string-iitd",
+      "tag": "v1.0.2",
+      "deploy": true
+    },
+    {
+      "name": "Free Vibration of the circular plate",
+      "short-name": "circular-plate",
+      "repo": "https://github.com/virtual-labs/exp-circular-plate-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Free Vibration of Square plate",
+      "short-name": "square-plate",
+      "repo": "https://github.com/virtual-labs/exp-square-plate-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Free Vibration of Beam",
+      "short-name": "vibration-of-beam",
+      "repo": "https://github.com/virtual-labs/exp-vibration-of-beam-iitd",
+      "tag": "v1.0.2",
+      "deploy": true
+    },
+    {
+      "name": "Waves in one dimensional lattice",
+      "short-name": "one-dimensional-lattice",
+      "repo": "https://github.com/virtual-labs/exp-one-dimensional-lattice-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Vibration absorption",
+      "short-name": "vibration-absorption",
+      "repo": "https://github.com/virtual-labs/exp-vibration-absorption-iitd",
+      "tag": "v1.0.2",
+      "deploy": true
+    },
+    {
+      "name": "Flexural waves in beam",
+      "short-name": "flexural-waves",
+      "repo": "https://github.com/virtual-labs/exp-flexural-waves-iitd",
+      "tag": "v1.0.2",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["Under Graduate students of Civil Engineering"],
+    "PG": ["Post Graduate students of Civil Engineering"]
+  },
+  "objective": "Metamaterial and periodic structures are attracting attention of the researchers due to its unusual phenomena. However, the research on metamaterial originated from solid-state physics and optics, now it started making its indispensable role in the field related to applied mechanics, vibration control, aerospace, seismic and acoustic engineering etc. To familiarize the students with this cutting edge research field, this course will play a pivotal role. </br>Wave propagation through different forms of 1D and 2D continuum will be discussed elaborately. Concept of negative material properties such as negative effective mass, stiffness or Poisson’s ratio will also be introduced within the scope of the proposed course. ",
+  "courseAlignment": {
+    "description": "The lab contents are chosen such that it covers the syllabi of the Waves and Vibration Transmission in Periodic Structures Lab",
+    "universities": [
+      "IISC Bangalore Karnataka",
+      "DRDO Bhawan Delhi",
+      "B.A.R.C Maharashtra",
+      "ISRO Karnataka",
+      "IIEST Shibpur West Bengal",
+      "Jadavpur University West Bengal",
+      "Punjab University Chandigarh",
+      "Delhi Technical University Delhi",
+      "Anna University Tamil Nadu",
+      "Collage of Engineering Pune Maharashtra",
+      "Amity University Haryana",
+      "KIIT University Odisha"
+    ]
+  },
+  "exp_name": "Flexural waves in beam",
+  "exp_short_name": "flexural-waves",
+  "version": "v0.2.0"
+}
