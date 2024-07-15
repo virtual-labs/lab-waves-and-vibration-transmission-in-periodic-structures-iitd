@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+    "code" : "CIVIL"
   },
   "lab": "Waves and Vibration Transmission in Periodic Structures",
+  "lab_display_name" : "Waves and Vibration Transmission in Periodic Structures",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITD",
@@ -81,8 +83,5 @@
       "Amity University Haryana",
       "KIIT University Odisha"
     ]
-  },
-  "exp_name": "Flexural waves in beam",
-  "exp_short_name": "flexural-waves",
-  "version": "v0.5.0"
+  }
 }
